@@ -1,6 +1,8 @@
 ****************
 Python resources
 ****************
+Collection of interesting python resources
+
 
 .. contents:: `Table of Contents`
 
