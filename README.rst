@@ -24,6 +24,8 @@ News
 Learning
 ========
 
+* [EN] `Newcoder.io <http://newcoder.io/>`_ Five python tutorials (Data Visualization, APIs, Video games, Web Scraping, Networks and GUI) for people that have learned python syntax but want to have an aproximation to real code and clues to set a development environment.
+
 Gamified
 --------
 
