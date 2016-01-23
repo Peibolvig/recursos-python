@@ -13,3 +13,11 @@ Podcasts
 Videos
 ======
 * [EN] `<http://pyvideo.org/>`_ - Python meetings and conventions video collection
+
+License
+=======
+
+.. image:: https://licensebuttons.net/p/zero/1.0/88x31.png
+  :target: http://creativecommons.org/publicdomain/zero/1.0/
+
+To the extent possible under law, `Peibolvig <https://github.com/Peibolvig>`_ has waived all copyright and related or neighboring rights to this work.
