@@ -8,11 +8,20 @@ Collection of interesting python resources
 
 Podcasts
 ========
-* [ES] `<http://podcast.jcea.es/python/>`_ - Assorted podcast topics on python world
+- [ES] `<http://podcast.jcea.es/python/>`_ - Assorted podcast topics on python world
 
 Videos
 ======
-* [EN] `<http://pyvideo.org/>`_ - Python meetings and conventions video collection
+- [EN] `<http://pyvideo.org/>`_ - Python meetings and conventions video collection - **About to close**
+
+Contributing
+============
+- Please check for duplicates first.
+- Keep descriptions short, simple and unbiased.
+- Please make an individual commit for each suggestion
+- Add a new category if needed.
+
+Thanks for your suggestions!
 
 License
 =======
