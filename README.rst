@@ -14,6 +14,11 @@ Videos
 ======
 - [EN] `<http://pyvideo.org/>`_ - Python meetings and conventions video collection - **About to close**
 
+News
+====
+- [EN] `<http://www.pythonweekly.com/>`_ - Newsletter about python world. News, articles, tools, events,...
+- [EN] `@PythonWeekly <https://twitter.com/PythonWeekly>`_ - Twitter version of PythonWeekly newsletter. 
+
 Contributing
 ============
 - Please check for duplicates first.
