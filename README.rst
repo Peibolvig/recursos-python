@@ -9,6 +9,7 @@ Collection of interesting python resources
 Podcasts
 ========
 - [ES] `<http://podcast.jcea.es/python/>`_ - Assorted podcast topics on python world
+- [EN] `Podcast.__init__ <http://pythonpodcast.com/>`_ - A podcast about Python and the people who make it great
 
 Videos
 ======
