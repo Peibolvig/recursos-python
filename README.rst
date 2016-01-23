@@ -21,6 +21,14 @@ News
 - [EN] `<http://www.pythonweekly.com/>`_ - Newsletter about python world. News, articles, tools, events,...
 - [EN] `@PythonWeekly <https://twitter.com/PythonWeekly>`_ - Twitter version of PythonWeekly newsletter. 
 
+Learning
+========
+
+Gamified
+--------
+
+* [EN] `Checkio.org <http://www.checkio.org/>`_ CheckiO is a game for coders. Small code challenges where you can learn python by coding, sharing, peer reviewing and watching the best scored code of every challenge.
+
 Contributing
 ============
 - Please check for duplicates first.
