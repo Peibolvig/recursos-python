@@ -32,6 +32,11 @@ Gamified
 * [EN] `Checkio.org <http://www.checkio.org/>`_ CheckiO is a game for coders. Small code challenges where you can learn python by coding, sharing, peer reviewing and watching the best scored code of every challenge.
 * [EN] `Empire of code <http://empireofcode.com/>`_ Empire of Code is a space game with a mix of strategy, tactics and coding (Similar to checkio.org in many ways).
 
+User groups
+===========
+
+- `Python Vigo <https://www.python-vigo.es/>`_
+
 Contributing
 ============
 - Please check for duplicates first.
