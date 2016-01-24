@@ -15,6 +15,7 @@ Podcasts
 Videos
 ======
 - [EN] `<http://pyvideo.org/>`_ - Python meetings and conventions video collection - **About to close**
+- [EN] `PyVideo JSON data <https://github.com/pyvideo/pyvideo-data>`_ - Github repo with json format data of the almost defunct PyVideo.org
 
 News
 ====
