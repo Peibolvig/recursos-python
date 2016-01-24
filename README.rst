@@ -8,18 +8,18 @@ Collection of interesting python resources
 
 Podcasts
 ========
-- [ES] `<http://podcast.jcea.es/python/>`_ - Assorted podcast topics on python world
+- [ES] `Python en Español <http://podcast.jcea.es/python/>`_ - Assorted podcast topics on python world
 - [EN] `Podcast.__init__ <http://pythonpodcast.com/>`_ - A podcast about Python and the people who make it great
 - [EN] `Talk Python To Me <https://talkpython.fm/>`_ - A podcast on Python and related technologies
 
 Videos
 ======
-- [EN] `<http://pyvideo.org/>`_ - Python meetings and conventions video collection - **About to close**
+- [EN] `PyVideo.org <http://pyvideo.org/>`_ - Python meetings and conventions video collection - **About to close**
 - [EN] `PyVideo JSON data <https://github.com/pyvideo/pyvideo-data>`_ - Github repo with json format data of the almost defunct PyVideo.org
 
 News
 ====
-- [EN] `<http://www.pythonweekly.com/>`_ - Newsletter about python world. News, articles, tools, events,...
+- [EN] `Python Weekly <http://www.pythonweekly.com/>`_ - Newsletter about python world. News, articles, tools, events,...
 - [EN] `@PythonWeekly <https://twitter.com/PythonWeekly>`_ - Twitter version of PythonWeekly newsletter. 
 
 Learning
