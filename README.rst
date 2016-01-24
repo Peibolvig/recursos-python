@@ -35,7 +35,7 @@ Gamified
 User groups
 ===========
 
-- `Python Vigo <https://www.python-vigo.es/>`_
+- `Python Vigo <https://www.python-vigo.es/>`_ + `About <python-vigo.rst>`_
 
 Contributing
 ============
