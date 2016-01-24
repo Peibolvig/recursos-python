@@ -24,13 +24,13 @@ News
 Learning
 ========
 
-* [EN] `Newcoder.io <http://newcoder.io/>`_ Five python tutorials (Data Visualization, APIs, Video games, Web Scraping, Networks and GUI) for people that have learned python syntax but want to have an aproximation to real code and clues to set a development environment.
+- [EN] `Newcoder.io <http://newcoder.io/>`_ Five python tutorials (Data Visualization, APIs, Video games, Web Scraping, Networks and GUI) for people that have learned python syntax but want to have an aproximation to real code and clues to set a development environment.
 
 Gamified
 --------
 
-* [EN] `Checkio.org <http://www.checkio.org/>`_ CheckiO is a game for coders. Small code challenges where you can learn python by coding, sharing, peer reviewing and watching the best scored code of every challenge.
-* [EN] `Empire of code <http://empireofcode.com/>`_ Empire of Code is a space game with a mix of strategy, tactics and coding (Similar to checkio.org in many ways).
+- [EN] `Checkio.org <http://www.checkio.org/>`_ - CheckiO is a game for coders. Small code challenges where you can learn python by coding, sharing, peer reviewing and watching the best scored code of every challenge.
+- [EN] `Empire of code <http://empireofcode.com/>`_ - Empire of Code is a space game with a mix of strategy, tactics and coding (Similar to checkio.org in many ways).
 
 User groups
 ===========
