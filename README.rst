@@ -20,12 +20,13 @@ Videos
 News
 ====
 - [EN] `Python Weekly <http://www.pythonweekly.com/>`_ - Newsletter about python world. News, articles, tools, events,...
-- [EN] `@PythonWeekly <https://twitter.com/PythonWeekly>`_ - Twitter version of PythonWeekly newsletter. 
+- [EN] `@PythonWeekly <https://twitter.com/PythonWeekly>`_ - Twitter version of PythonWeekly newsletter.
 
 Learning
 ========
 
-- [EN] `Newcoder.io <http://newcoder.io/>`_ Five python tutorials (Data Visualization, APIs, Video games, Web Scraping, Networks and GUI) for people that have learned python syntax but want to have an aproximation to real code and clues to set a development environment.
+- [EN] `Newcoder.io <http://newcoder.io/>`_ - Five python tutorials (Data Visualization, APIs, Video games, Web Scraping, Networks and GUI) for people that have learned python syntax but want to have an approximation to real code and clues to set a development environment.
+- [EN] `Python koans <https://github.com/gregmalcolm/python_koans>`_ - Interactive tutorial for learning the Python programming language, in a Zen style, by making tests pass.
 
 Gamified
 --------
