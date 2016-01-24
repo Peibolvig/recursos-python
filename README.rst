@@ -41,8 +41,9 @@ Contributing
 ============
 - Please check for duplicates first.
 - Keep descriptions short, simple and unbiased.
-- Please make an individual commit for each suggestion
+- Please make an individual commit for each suggestion.
 - Add a new category if needed.
+- Please use the same style/structure as the current document.
 
 Thanks for your suggestions!
 
