@@ -21,6 +21,7 @@ News
 ====
 - [EN] `Python Weekly <http://www.pythonweekly.com/>`_ - Newsletter about python world. News, articles, tools, events,...
 - [EN] `@PythonWeekly <https://twitter.com/PythonWeekly>`_ - Twitter version of PythonWeekly newsletter.
+- [EN] `Pycoders Weekly <http://pycoders.com/>`_ - Weekly e-mail newsletter about python development and various topics around python.
 
 Learning
 ========
