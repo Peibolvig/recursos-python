@@ -21,6 +21,7 @@ News
 ====
 - [EN] `Python Weekly <http://www.pythonweekly.com/>`_ - Newsletter about python world. News, articles, tools, events,...
 - [EN] `@PythonWeekly <https://twitter.com/PythonWeekly>`_ - Twitter version of PythonWeekly newsletter.
+- [EN] `Import Python <http://importpython.com/newsletter/>`_ - Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets.
 
 Learning
 ========
