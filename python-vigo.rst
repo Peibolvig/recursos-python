@@ -27,7 +27,7 @@ Twitter
 Scheduled meetings
 ------------------
 
-Third Thursday of the month at "Coworking Vigo" `calle Pontevedra 1, oficinas, 2ª planta, Vigo <http://www.openstreetmap.org/?mlat=42.23884&mlon=-8.71934#map=19/42.23884/-8.71935>`_
+Third Thursday of the month at `Coworking Vigo http://coworking-vigo.com/` `calle Pontevedra 1, oficinas, 2ª planta, Vigo <http://www.openstreetmap.org/?mlat=42.23884&mlon=-8.71934#map=19/42.23884/-8.71935>`_
 
 
 Talks
