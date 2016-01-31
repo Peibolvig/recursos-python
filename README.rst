@@ -29,6 +29,7 @@ Learning
 - [EN] `Newcoder.io <http://newcoder.io/>`_ - Five python tutorials (Data Visualization, APIs, Video games, Web Scraping, Networks and GUI) for people that have learned python syntax but want to have an approximation to real code and clues to set a development environment.
 - [EN] `Python koans <https://github.com/gregmalcolm/python_koans>`_ - Interactive tutorial for learning the Python programming language, in a Zen style, by making tests pass.
 - [EN] `Full Stack Python <http://www.fullstackpython.com/>`_ - An open book that explains concepts in plain language and provides the most helpful resources on those topics. 
+- [EN] `Python Books <http://pythonbooks.revolunet.com/>`_ - A list of free books about Python.
 
 Gamified
 --------
