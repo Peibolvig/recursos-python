@@ -11,6 +11,7 @@ Podcasts
 - [ES] `Python en Español <http://podcast.jcea.es/python/>`_ - Assorted podcast topics on python world
 - [EN] `Podcast.__init__ <http://pythonpodcast.com/>`_ - A podcast about Python and the people who make it great
 - [EN] `Talk Python To Me <https://talkpython.fm/>`_ - A podcast on Python and related technologies
+- [EN] `Python Testing <http://pythontesting.net/category/podcast/>`_ - Python Test Frameworks and Strategies
 
 Videos
 ======
