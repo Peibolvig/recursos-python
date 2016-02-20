@@ -24,6 +24,13 @@ Twitter
 
 - `@python_vigo <https://www.twitter.com/python_vigo>`_
 
+Repos
+-----
+
+- `Github <https://github.com/python-vigo/>`_
+- python-vigo.es `source code <https://hg.luisgf.es/python-vigo/>`_
+
+
 Scheduled meetings
 ------------------
 
