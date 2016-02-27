@@ -24,6 +24,13 @@ Twitter
 
 - `@python_vigo <https://www.twitter.com/python_vigo>`_
 
+Repos
+-----
+
+- `Github <https://github.com/python-vigo/>`_
+- python-vigo.es `source code <https://hg.luisgf.es/python-vigo/>`_
+
+
 Scheduled meetings
 ------------------
 
@@ -124,16 +131,15 @@ Speaker:        Adam Ahn Dkc `@adoankim <https://www.twitter.com/adoankim>`_
 Slides:         http://adoankim.github.io/python-vigo-gamedev/
 Source:         https://github.com/adoankim/python-vigo-gamedev
 Video:          https://www.youtube.com/watch?v=QfXsn_fC0NQ
+Demo:           https://github.com/adoankim/RunnerBase/
 =============== ===========================================================================
 
-+---------------+---------------------------------------------------------------------------+
-| Title:        | Testing                                                                   |
-+---------------+---------------------------------------------------------------------------+
-| Speaker:      | Francisco Puga (`@fpuga <https://www.twitter.com/fpuga>`_)                |
-+---------------+---------------------------------------------------------------------------+
-| Slides and    | https://github.com/fpuga/python-vigo                                      |
-| Source:       |                                                                           |
-+---------------+---------------------------------------------------------------------------+
+=============== ===========================================================================
+Title:          Testing
+Speaker:        Francisco Puga (`@fpuga <https://www.twitter.com/fpuga>`_)
+Slides:         http://fpuga.github.io/python-vigo/
+Source:         https://github.com/fpuga/python-vigo/
+=============== ===========================================================================
 
 2015-04-16
 ^^^^^^^^^^
@@ -141,8 +147,10 @@ Video:          https://www.youtube.com/watch?v=QfXsn_fC0NQ
 =============== ===========================================================================
  Title:         Measure all the things
  Speaker:       Eloy Coto Pereiro `@eloycoto <https://www.twitter.com/eloycoto>`_
- Source:        `pythonrc <https://github.com/0xf4/pythonrc>`_
+ Slides:        https://speakerdeck.com/eloycoto/measure-all-the-things
+ Source:        https://github.com/eloycoto/statsd-influxdb-examples
  Video:         https://www.youtube.com/watch?v=oMst3JU-RjQ
+ Blog:          http://acalustra.com/statsd-talk-at-python-vigo-meetup.html
 =============== ===========================================================================
 
 =============== ===========================================================================
@@ -153,6 +161,7 @@ Video:          https://www.youtube.com/watch?v=QfXsn_fC0NQ
 =============== ===========================================================================
  Title:         Entornos interactivos en Python
  Speaker:       Roman Pena Perez
+ Source:        `pythonrc <https://github.com/0xf4/pythonrc>`_
  Video:         https://www.youtube.com/watch?v=6niRYcubxPk
 =============== ===========================================================================
 
@@ -162,11 +171,13 @@ Video:          https://www.youtube.com/watch?v=QfXsn_fC0NQ
 =============== ===========================================================================
  Title:         Experiencias con Python en sistemas embedidos
  Speaker:       Eduardo Díaz Comellas
+ Slides:        https://www.python-vigo.es/19032015_EDC.pdf
 =============== ===========================================================================
 
 =============== ===========================================================================
  Title:         Los laberintos de Python
  Speaker:       Daniel Pose
+ Slides:        https://www.python-vigo.es/19032015_DP.pptx
 =============== ===========================================================================
 
 2015-02-19
@@ -174,12 +185,14 @@ Video:          https://www.youtube.com/watch?v=QfXsn_fC0NQ
 
 =============== ===========================================================================
  Title:         Paquete OpenBadges Lib
- Speaker:       Luis González Fernández
+ Speaker:       Luis González Fernández `@luisgf_2001 <https://www.twitter.com/luisgf_2001>`_
+ Documentation: https://openbadges.luisgf.es/
 =============== ===========================================================================
 
 =============== ===========================================================================
  Title:         Instalación de Python y editores
  Speaker:       Miguel González Álvarez `@migonzalvar <https://www.twitter.com/migonzalvar>`_
+ Slides:        http://slides.com/migonzalvar/python-3-primeros-pasos#/
  Video:         https://www.youtube.com/watch?v=D5vmTg95Ov0
 =============== ===========================================================================
 
