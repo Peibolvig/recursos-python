@@ -34,11 +34,29 @@ Repos
 Scheduled meetings
 ------------------
 
-Third Thursday of the month at `Coworking Vigo http://coworking-vigo.com/` `calle Pontevedra 1, oficinas, 2ª planta, Vigo <http://www.openstreetmap.org/?mlat=42.23884&mlon=-8.71934#map=19/42.23884/-8.71935>`_
+Third Thursday of the month
+
+Historic venues
+^^^^^^^^^^^^^^^
+
+* `Biblioteca de la Escuela Municipal de Artes y Oficios <http://bibliotecadaemao.blogspot.com.es/>`_ in `García Barbón avenue 5 <http://www.openstreetmap.org/?mlat=42.23757&mlon=-8.71974#map=19/42.23757/-8.71974>`_
+* `Coworking Vigo http://coworking-vigo.com/` `calle Pontevedra 1, oficinas, 2ª planta, Vigo <http://www.openstreetmap.org/?mlat=42.23884&mlon=-8.71934#map=19/42.23884/-8.71935>`_
 
 
 Talks
 -----
+
+2016-03-17
+^^^^^^^^^^
+=============== ===========================================================================
+Title:          Magic methods for Muggles
+Speaker:        Álex Hermida `@alexhermida <https://www.twitter.com/alexhermida>`_
+=============== ===========================================================================
+
+=============== ===========================================================================
+Title:          Reactividad con Python y Websockets
+Speaker:        Hugo Caloto `@Hugo_CL <https://www.twitter.com/Hugo_CL>`_
+=============== ===========================================================================
 
 2016-02-18
 ^^^^^^^^^^
@@ -203,15 +221,6 @@ First meeting
 
 Scheduled talks
 ---------------
-
-2016-03-21
-^^^^^^^^^^
-=============== ===========================================================================
-Title:          Métodos mágicos
-Speaker:        Álex Hermida
-=============== ===========================================================================
-
-(Second talk pending)
 
 2016-04-21
 ^^^^^^^^^^
