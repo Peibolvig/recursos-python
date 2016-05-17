@@ -46,8 +46,22 @@ Historic venues
 Talks
 -----
 
+2016-04-21
+^^^^^^^^^^
+
+=============== ===========================================================================
+Title:          Python gotchas
+Speaker:        Xurxo Fresco
+=============== ===========================================================================
+
+=============== ===========================================================================
+Title:          Python científico
+Speaker:        Miguel Sánchez de León 'Peque'
+=============== ===========================================================================
+
 2016-03-17
 ^^^^^^^^^^
+
 =============== ===========================================================================
 Title:          Magic methods for Muggles
 Speaker:        Álex Hermida `@alexhermida <https://www.twitter.com/alexhermida>`_
@@ -60,6 +74,7 @@ Speaker:        Hugo Caloto `@Hugo_CL <https://www.twitter.com/Hugo_CL>`_
 
 2016-02-18
 ^^^^^^^^^^
+
 =============== ===========================================================================
 Title:          HTTP usando la red Tor y Python
 Speaker:        Miguel Gesteiro `@mgesteiro <https://www.twitter.com/mgesteiro>`_
@@ -82,12 +97,14 @@ Source:         https://github.com/luisgf/pyvigo-cryptography
 
 2015-12-18
 ^^^^^^^^^^
+
 =============== ===========================================================================
  Speaker:       Eloy Coto Pereiro `@eloycoto <https://www.twitter.com/eloycoto>`_
 =============== ===========================================================================
 
 2015-11-26
 ^^^^^^^^^^
+
 =============== ===========================================================================
 Title:          Repaso a las ponencias más interesantes de la PyConES 2015
 Title:          ¿Por qué debo pertenecer a la Asociación Python España?
@@ -96,6 +113,7 @@ Title:          Agenda de eventos 2016ES
 
 2015-10-15
 ^^^^^^^^^^
+
 =============== ===========================================================================
  Title:         TDD en la práctica
  Speaker:       David Vílchez (`@dvilchez <https://www.twitter.com/dvilchez>`_, http://www.xuaps.com)
@@ -222,20 +240,9 @@ First meeting
 Scheduled talks
 ---------------
 
-2016-04-21
-^^^^^^^^^^
-=============== ===========================================================================
-Title:          Python gotchas
-Speaker:        Xurxo Fresco
-=============== ===========================================================================
-
-=============== ===========================================================================
-Title:          Python científico
-Speaker:        Miguel Sánchez de León 'Peque'
-=============== ===========================================================================
-
 2016-05-19
 ^^^^^^^^^^
+
 =============== ===========================================================================
 Title:          Errbot
 Speaker:        Daniel Sánchez
@@ -247,6 +254,7 @@ Title:          Python para pentesters. *not confirmed*
 
 2016-06-16
 ^^^^^^^^^^
+
 =============== ===========================================================================
 Title:          CMS en Django
 Speaker:        Roman Pena Perez
