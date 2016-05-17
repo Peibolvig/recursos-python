@@ -33,6 +33,7 @@ Learning
 - [EN] `Full Stack Python <http://www.fullstackpython.com/>`_ - An open book that explains concepts in plain language and provides the most helpful resources on those topics. 
 - [EN] `Python Books <http://pythonbooks.revolunet.com/>`_ - A list of free books about Python.
 - [ES] `Diseño Ágil con TDD <http://web.archive.org/web/20140722013742/http://www.dirigidoportests.com/el-libro/>`_ Theoretical and practical Test Driven development introduction in python (first half of th book) and java (second half).
+- [EN] `Python anti-patterns <http://docs.quantifiedcode.com/python-code-patterns/index.html>`_ - Compilation of anti-patterns explained and showing the best practices for each case
 
 Gamified
 --------
