@@ -50,8 +50,10 @@ Talks
 ^^^^^^^^^^
 
 =============== ===========================================================================
-Title:          Errbot
+Title:          Chatops en Python. Errbot.
 Speaker:        Daniel Sánchez
+Slides:         https://daniel-at-github.github.io/python-vigo_2016-05-19_charla_errbot/
+Source:         https://github.com/Daniel-at-github/python-vigo_2016-05-19_charla_errbot
 =============== ===========================================================================
 
 =============== ===========================================================================
