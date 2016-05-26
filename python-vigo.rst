@@ -59,7 +59,7 @@ Source:         https://github.com/Daniel-at-github/python-vigo_2016-05-19_charl
 =============== ===========================================================================
 Title:          Línea de comandos
 Speaker:        Miguel González Álvarez `@migonzalvar <https://www.twitter.com/migonzalvar>`_
-Source:         https://bitbucket.org/migonzalvar/talks (folder 2016-05-python-vigo)
+Source:         https://github.com/migonzalvar/talks/tree/master/2016-05-python-vigo
 =============== ===========================================================================
 
 2016-04-21
@@ -119,15 +119,10 @@ Source:         https://github.com/luisgf/pyvigo-cryptography
  Speaker:       Eloy Coto Pereiro `@eloycoto <https://www.twitter.com/eloycoto>`_
 =============== ===========================================================================
 
-
-=============== ===========================================================================
- Speaker:       Alejandro Costas `@dracel89 <https://www.twitter.com/dracel89>`_
-=============== ===========================================================================
-
 =============== ===========================================================================
 Title:          Agiliza aplicaciónes web usando un worker con Django y Celery
 Speaker:        Miguel González Álvarez `@migonzalvar <https://www.twitter.com/migonzalvar>`_
-Source:         https://bitbucket.org/migonzalvar/talks (folder 2015-12-python-vigo)
+Source:         https://github.com/migonzalvar/talks/tree/master/2015-12-python-vigo
 =============== ===========================================================================
 
 2015-11-26
@@ -177,7 +172,7 @@ Speaker:        Fabio Souto
 =============== ===========================================================================
 Title:          Entornos virtuales
 Speaker:        Miguel González `@migonzalvar <https://www.twitter.com/migonzalvar>`_
-Source:         https://bitbucket.org/migonzalvar/talks (folder 2015-06-python-vigo)
+Source:         https://github.com/migonzalvar/talks/tree/master/2015-06-python-vigo
 =============== ===========================================================================
 
 =============== ===========================================================================
@@ -258,7 +253,7 @@ Source:         https://github.com/fpuga/python-vigo/
  Title:         Instalación de Python y editores
  Speaker:       Miguel González Álvarez `@migonzalvar <https://www.twitter.com/migonzalvar>`_
  Slides:        http://slides.com/migonzalvar/python-3-primeros-pasos#/
- Source:        https://bitbucket.org/migonzalvar/talks (folder 2015-02-python-vigo)
+ Source:        https://github.com/migonzalvar/talks/tree/master/2015-02-python-vigo
  Video:         https://www.youtube.com/watch?v=D5vmTg95Ov0
 =============== ===========================================================================
 
