@@ -72,6 +72,7 @@ Speaker:        Xurxo Fresco
 =============== ===========================================================================
 Title:          Python científico
 Speaker:        Miguel Sánchez de León 'Peque'
+Source:         https://github.com/Peque/Machine-Learning-Notebooks (test branch)
 =============== ===========================================================================
 
 2016-03-17
