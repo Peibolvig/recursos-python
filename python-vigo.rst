@@ -81,6 +81,7 @@ Speaker:        Miguel Sánchez de León 'Peque'
 Title:          Magic methods for Muggles
 Speaker:        Álex Hermida `@alexhermida <https://www.twitter.com/alexhermida>`_
 Source:         https://github.com/alexhermida/special-methods-for-muggles
+Video:          https://www.youtube.com/watch?v=IY_6vY-M60Y
 =============== ===========================================================================
 
 =============== ===========================================================================
